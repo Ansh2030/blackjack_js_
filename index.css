@@ -1,0 +1,30 @@
+
+body{
+    background-image: url(pics/pexels-thgusstavo-santana-2224832.jpg) ;
+    background-size: cover;
+    text-align:center;
+}
+
+h1{
+    color:white; font-size: 90px; color:goldenrod;
+}
+h3{
+    color: white; font-size: 40px;
+}
+p{
+    color:white;font-size: 30px; font-weight: bold;
+}
+button{
+    color:#016f32;
+    width:200px;
+    padding :10px 10px ;
+    font-size: 20px;font-weight: bold;
+    background-color: goldenrod;
+    cursor:pointer;
+    border:none;border-radius: 5px;
+    display:block;
+    margin:auto;
+    margin-top:10px;
+    
+}
+
